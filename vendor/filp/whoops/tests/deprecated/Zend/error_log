@@ -1,0 +1,2 @@
+[15-Sep-2014 15:42:09 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/deprecated/Zend/ModuleTest.php on line 5
+[24-Oct-2014 07:28:02 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/deprecated/Zend/ModuleTest.php on line 5

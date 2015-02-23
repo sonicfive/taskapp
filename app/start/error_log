@@ -1,0 +1,8 @@
+[12-Sep-2014 23:02:27 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/laravel/app/start/global.php on line 14
+[16-Sep-2014 18:02:33 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/laravel/app/start/global.php on line 14
+[18-Oct-2014 19:35:37 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/app/start/global.php on line 14
+[20-Oct-2014 22:29:44 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/task/app/start/global.php on line 14
+[23-Oct-2014 07:08:40 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/task/app/start/global.php on line 14
+[15-Nov-2014 18:23:08 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/task/app/start/global.php on line 14
+[23-Jan-2015 03:31:15 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/task/app/start/global.php on line 14
+[24-Jan-2015 03:27:58 America/Denver] PHP Fatal error:  Class 'ClassLoader' not found in /home/rocketo4/public_html/task/app/start/global.php on line 14

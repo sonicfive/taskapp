@@ -1,0 +1,12 @@
+[15-Sep-2014 20:35:26 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Handler/PlainTextHandlerTest.php on line 14
+[15-Sep-2014 23:10:49 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Handler/XmlResponseHandlerTest.php on line 12
+[16-Sep-2014 06:11:41 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Handler/SoapResponseHandlerTest.php on line 12
+[16-Sep-2014 13:37:09 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Handler/PrettyPageHandlerTest.php on line 14
+[17-Sep-2014 06:00:51 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Handler/JsonResponseHandlerTest.php on line 13
+[19-Oct-2014 05:20:31 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/vendor/filp/whoops/tests/Whoops/Handler/PrettyPageHandlerTest.php on line 14
+[19-Oct-2014 09:28:27 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/vendor/filp/whoops/tests/Whoops/Handler/SoapResponseHandlerTest.php on line 12
+[24-Oct-2014 03:00:10 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Handler/XmlResponseHandlerTest.php on line 12
+[24-Oct-2014 03:11:25 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Handler/SoapResponseHandlerTest.php on line 12
+[24-Oct-2014 03:33:52 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Handler/JsonResponseHandlerTest.php on line 13
+[24-Oct-2014 04:16:26 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Handler/PlainTextHandlerTest.php on line 14
+[24-Oct-2014 05:51:23 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Handler/PrettyPageHandlerTest.php on line 14

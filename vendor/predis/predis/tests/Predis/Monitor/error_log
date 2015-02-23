@@ -1,0 +1,2 @@
+[16-Sep-2014 17:07:20 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Monitor/MonitorContextTest.php on line 22
+[24-Oct-2014 01:53:40 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Monitor/MonitorContextTest.php on line 22

@@ -1,0 +1,5 @@
+[15-Sep-2014 15:27:00 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/PubSub/PubSubContextTest.php on line 22
+[16-Sep-2014 12:04:58 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/PubSub/DispatcherLoopTest.php on line 21
+[19-Oct-2014 09:35:59 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/vendor/predis/predis/tests/Predis/PubSub/DispatcherLoopTest.php on line 21
+[24-Oct-2014 00:21:24 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/PubSub/PubSubContextTest.php on line 22
+[24-Oct-2014 01:19:11 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/PubSub/DispatcherLoopTest.php on line 21

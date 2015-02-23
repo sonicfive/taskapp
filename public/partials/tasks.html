@@ -1,0 +1,114 @@
+<div class="widget-box" id="recent-box" ng-controller="tasksController">
+  <div class="widget-header header-color-blue">
+    <div class="row">
+                      <!--div class="col-sm-3">
+                      <h4 class="bigger lighter">
+                        <i class="glyphicon glyphicon-align-justify"></i>&nbsp;
+                        
+                      </h4>
+                    </div-->
+                    <div class="col-sm-4">
+                      <button ng-click="addNewClicked=!addNewClicked;" class="btn btn-sm btn-success header-elements-margin"><i class="glyphicon  glyphicon-plus"></i>&nbsp;Add New Task</button>
+                     <a href="#/categories" class="btn btn-sm btn-danger header-elements-margin"><i class="glyphicon  glyphicon-folder-open"></i>&nbsp;&nbsp;Categories</a>
+
+                    </div>
+                    
+                  
+                   <div class="col-sm-4 col-sm-offset-4">
+
+                    <input type="text" ng-model="filterTask" class="form-control search header-elements-margin" placeholder="Filter Tasks">
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="widget-body ">
+                <form ng-init="addNewClicked=false; " ng-if="addNewClicked" id="newTaskForm" class="add-task">
+                  <div class="form-actions">
+                    <div class="input-group">
+                      <input type="text" class="form-control" name="comment" ng-model="taskInput" placeholder="Add New Task" ng-focus="addNewClicked">
+
+
+
+                      <div class="input-group-btn">
+                        <button class="btn btn-default" type="submit" ng-click="addTask(taskInput)"><i class="glyphicon glyphicon-plus"></i>&nbsp;Add New Task</button>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+
+                <div class="task" ng-repeat="task in tasks | filter : filterTask">
+
+           
+                
+
+
+            
+                  <label class="checkbox" >
+                  <span class="glyphicon glyphicon-ok text-success" ng-click="toggleStatus(task.id,task.status)"></span>
+                  
+                   <!--input 
+                    type="checkbox"
+                    value="{{task.status}}"
+                    ng-checked="task.status==2"
+                    ng-click="toggleStatus(task.id,task.status, task.task)"
+                    
+                    /--> 
+
+                    <span ng-hide="showOrHide"  ng-class="{strike:task.status==2}"  ng-click="showOrHide=!showOrHide; ">{{task.task}}</span>
+
+
+                   <span ng-show="showOrHide">
+                    <input type="text" ng-model="task.task" ng-blur="showOrHide=!showOrHide;updateTask(task.id, task.status, task.task)" >
+                    <button type="button" class="btn btn-success btn-xs" ng-click="showOrHide=!showOrHide;updateTask(task.ID, task.STATUS, task.TASK)">Save Task</button>
+                  </span>
+
+                  
+
+
+             
+                  <a ng-click="deleteTask(task.id)" class="pull-right"><i class="glyphicon glyphicon-trash"></i></a>
+
+                  <select style="width:200px;margin-right:20px" class="pull-right" 
+                  ng-model="category"
+                  ng-change="addTaskCategory(category.id, task.id)" 
+                  ng-options="category.title for category in categories"
+                 
+
+                  >
+
+                  </select>
+                  
+                  <!--span class="pull-right">Add Category: &nbsp;&nbsp;</span-->
+                  <!--div class="pull-right"     
+                  multi-select
+                  directive-id="" 
+                  orientation="vertical"
+                  input-model="categories"
+                  button-label="title"
+                  item-label="title"
+                  tick-property="ticked" >
+                  </div-->
+
+                  <span  ng-repeat="category in task.categories" class="label {{category.color}}" style="margin-right:5px">
+                  &nbsp;&nbsp; {{category.title}} 
+                
+                  <span class="glyphicon glyphicon-remove" ng-click="deleteCategoryReference(category.id, task.id)"></span>
+          
+                  </span>
+                 
+
+                  
+
+                   </label>
+
+
+
+
+
+              </div>
+
+
+            </div>
+
+          </div>

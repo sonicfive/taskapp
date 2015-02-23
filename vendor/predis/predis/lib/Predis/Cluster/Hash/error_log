@@ -1,0 +1,2 @@
+[18-Sep-2014 13:41:46 America/Denver] PHP Fatal error:  Interface 'Predis\Cluster\Hash\HashGeneratorInterface' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Cluster/Hash/CRC16HashGenerator.php on line 20
+[25-Oct-2014 08:32:36 America/Denver] PHP Fatal error:  Interface 'Predis\Cluster\Hash\HashGeneratorInterface' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Cluster/Hash/CRC16HashGenerator.php on line 20

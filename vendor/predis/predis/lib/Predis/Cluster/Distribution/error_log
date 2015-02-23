@@ -1,0 +1,4 @@
+[18-Sep-2014 13:07:39 America/Denver] PHP Fatal error:  Class 'Predis\Cluster\Distribution\HashRing' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Cluster/Distribution/KetamaPureRing.php on line 23
+[19-Sep-2014 11:57:33 America/Denver] PHP Fatal error:  Interface 'Predis\Cluster\Distribution\DistributionStrategyInterface' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Cluster/Distribution/HashRing.php on line 24
+[25-Oct-2014 00:47:43 America/Denver] PHP Fatal error:  Interface 'Predis\Cluster\Distribution\DistributionStrategyInterface' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Cluster/Distribution/HashRing.php on line 24
+[25-Oct-2014 02:26:30 America/Denver] PHP Fatal error:  Class 'Predis\Cluster\Distribution\HashRing' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Cluster/Distribution/KetamaPureRing.php on line 23

@@ -1,0 +1,448 @@
+[14-Sep-2014 17:36:43 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:36:50 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:37:32 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:37:53 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:38:37 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:38:55 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:39:01 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:39:27 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:39:36 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:39:51 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:40:23 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:40:44 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/examples in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:40:50 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:40:56 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:40:59 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[14-Sep-2014 17:41:02 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[01-Oct-2014 00:45:17 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[01-Oct-2014 02:00:13 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[02-Oct-2014 11:21:08 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[02-Oct-2014 16:56:40 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[03-Oct-2014 19:39:32 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[04-Oct-2014 10:53:55 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[04-Oct-2014 14:41:17 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[05-Oct-2014 08:03:24 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[05-Oct-2014 15:38:08 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[06-Oct-2014 01:44:27 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[06-Oct-2014 20:05:10 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[07-Oct-2014 12:30:25 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/examples in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[07-Oct-2014 16:17:47 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[07-Oct-2014 17:33:51 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[07-Oct-2014 18:49:22 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[08-Oct-2014 04:55:41 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Pred in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 19:59:34 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 19:59:47 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 19:59:50 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 19:59:52 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 19:59:53 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:02 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:15 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:17 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:18 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:20 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:22 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:26 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:28 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:30 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/examples/SimpleDebuggableConnection.php(26): Predis\Conn in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:31 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[18-Oct-2014 20:00:34 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(181): Predi in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 00:14:02 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 00:16:16 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:11:24 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/examples/SimpleDebuggableC in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:15:58 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:21:41 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:23:58 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:25:07 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:27:24 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:28:33 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:34:15 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 12:38:50 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 13:24:08 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 13:31:00 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 17:06:31 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 19:47:45 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2014 23:06:22 America/Denver] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6379]' in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/Abst in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141

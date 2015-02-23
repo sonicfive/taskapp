@@ -1,0 +1,6 @@
+[16-Sep-2014 14:14:10 America/Denver] PHP Fatal error:  Class 'Zend\Mvc\View\Http\ExceptionStrategy' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 18
+[16-Sep-2014 22:16:23 America/Denver] PHP Fatal error:  Class 'Zend\Mvc\View\Http\RouteNotFoundStrategy' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 18
+[19-Oct-2014 08:48:00 America/Denver] PHP Fatal error:  Class 'Zend\Mvc\View\Http\ExceptionStrategy' not found in /home/rocketo4/public_html/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 18
+[19-Oct-2014 08:51:19 America/Denver] PHP Fatal error:  Class 'Zend\Mvc\View\Http\RouteNotFoundStrategy' not found in /home/rocketo4/public_html/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 18
+[24-Oct-2014 13:13:50 America/Denver] PHP Fatal error:  Class 'Zend\Mvc\View\Http\RouteNotFoundStrategy' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 18
+[25-Oct-2014 02:58:15 America/Denver] PHP Fatal error:  Class 'Zend\Mvc\View\Http\ExceptionStrategy' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 18

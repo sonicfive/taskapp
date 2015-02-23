@@ -1,0 +1,5 @@
+[15-Sep-2014 09:05:30 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Transaction/AbortedMultiExecExceptionTest.php on line 21
+[17-Sep-2014 09:17:38 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Transaction/MultiExecContextTest.php on line 25
+[23-Oct-2014 13:47:46 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Transaction/MultiExecContextTest.php on line 25
+[23-Oct-2014 22:46:27 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Transaction/AbortedMultiExecExceptionTest.php on line 21
+[20-Nov-2014 05:53:46 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Transaction/MultiExecContextTest.php on line 25

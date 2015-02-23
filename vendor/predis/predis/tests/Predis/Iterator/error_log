@@ -1,0 +1,5 @@
+[16-Sep-2014 01:48:42 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Iterator/MultiBulkResponseSimpleTest.php on line 21
+[17-Sep-2014 14:06:22 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Iterator/MultiBulkResponseTupleTest.php on line 21
+[19-Oct-2014 08:49:24 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/vendor/predis/predis/tests/Predis/Iterator/MultiBulkResponseTupleTest.php on line 21
+[24-Oct-2014 10:54:53 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Iterator/MultiBulkResponseSimpleTest.php on line 21
+[24-Oct-2014 11:42:53 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Iterator/MultiBulkResponseTupleTest.php on line 21

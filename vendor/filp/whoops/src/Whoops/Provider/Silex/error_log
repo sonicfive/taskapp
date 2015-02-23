@@ -1,0 +1,2 @@
+[18-Sep-2014 08:01:51 America/Denver] PHP Fatal error:  Interface 'Silex\ServiceProviderInterface' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/src/Whoops/Provider/Silex/WhoopsServiceProvider.php on line 17
+[24-Oct-2014 07:02:31 America/Denver] PHP Fatal error:  Interface 'Silex\ServiceProviderInterface' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/src/Whoops/Provider/Silex/WhoopsServiceProvider.php on line 17

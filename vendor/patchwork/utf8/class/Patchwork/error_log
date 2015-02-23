@@ -1,0 +1,2 @@
+[15-Sep-2014 06:22:29 America/Denver] PHP Fatal error:  Class 'Patchwork\Utf8' not found in /home/rocketo4/public_html/laravel/vendor/patchwork/utf8/class/Patchwork/TurkishUtf8.php on line 17
+[24-Oct-2014 08:41:39 America/Denver] PHP Fatal error:  Class 'Patchwork\Utf8' not found in /home/rocketo4/public_html/task/vendor/patchwork/utf8/class/Patchwork/TurkishUtf8.php on line 17

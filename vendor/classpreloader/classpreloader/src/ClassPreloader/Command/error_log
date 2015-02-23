@@ -1,0 +1,2 @@
+[14-Sep-2014 05:04:53 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/rocketo4/public_html/laravel/vendor/classpreloader/classpreloader/src/ClassPreloader/Command/PreCompileCommand.php on line 16
+[22-Oct-2014 17:09:11 America/Denver] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/rocketo4/public_html/task/vendor/classpreloader/classpreloader/src/ClassPreloader/Command/PreCompileCommand.php on line 16

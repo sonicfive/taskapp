@@ -1,0 +1,4 @@
+[14-Sep-2014 17:44:53 America/Denver] PHP Fatal error:  Call to a member function slug() on a non-object in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/fixtures/template.php on line 1
+[10-Oct-2014 20:15:16 America/Denver] PHP Fatal error:  Call to a member function slug() on a non-object in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/fixtures/template.php on line 1
+[18-Oct-2014 20:08:13 America/Denver] PHP Fatal error:  Call to a member function slug() on a non-object in /home/rocketo4/public_html/vendor/filp/whoops/tests/fixtures/template.php on line 1
+[27-Oct-2014 00:57:03 America/Denver] PHP Fatal error:  Call to a member function slug() on a non-object in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/fixtures/template.php on line 1

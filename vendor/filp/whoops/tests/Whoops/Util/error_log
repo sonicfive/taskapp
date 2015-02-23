@@ -1,0 +1,4 @@
+[15-Sep-2014 23:20:54 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Util/MiscTest.php on line 12
+[16-Sep-2014 19:54:54 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Util/TemplateHelperTest.php on line 12
+[24-Oct-2014 04:27:01 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Util/TemplateHelperTest.php on line 12
+[24-Oct-2014 06:08:44 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Util/MiscTest.php on line 12

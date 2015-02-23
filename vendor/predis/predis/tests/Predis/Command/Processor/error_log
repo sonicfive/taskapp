@@ -1,0 +1,4 @@
+[22-Sep-2014 17:00:48 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Command/Processor/ProcessorChainTest.php on line 20
+[23-Sep-2014 06:46:00 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Command/Processor/KeyPrefixProcessorTest.php on line 20
+[24-Oct-2014 15:18:09 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Command/Processor/ProcessorChainTest.php on line 20
+[24-Oct-2014 15:20:43 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Command/Processor/KeyPrefixProcessorTest.php on line 20

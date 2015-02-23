@@ -1,0 +1,4 @@
+[17-Sep-2014 20:01:51 America/Denver] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home/rocketo4/public_html/laravel/vendor/jeremeamia/SuperClosure/src/Jeremeamia/SuperClosure/Visitor/MagicConstantVisitor.php on line 15
+[19-Sep-2014 10:46:11 America/Denver] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home/rocketo4/public_html/laravel/vendor/jeremeamia/SuperClosure/src/Jeremeamia/SuperClosure/Visitor/ClosureFinderVisitor.php on line 13
+[22-Oct-2014 02:27:06 America/Denver] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home/rocketo4/public_html/task/vendor/jeremeamia/SuperClosure/src/Jeremeamia/SuperClosure/Visitor/ClosureFinderVisitor.php on line 13
+[22-Oct-2014 04:31:28 America/Denver] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home/rocketo4/public_html/task/vendor/jeremeamia/SuperClosure/src/Jeremeamia/SuperClosure/Visitor/MagicConstantVisitor.php on line 15

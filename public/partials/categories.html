@@ -1,0 +1,76 @@
+<div class="widget-box" id="recent-box" ng-controller="categoryController">
+                      <div class="widget-header header-color-blue">
+                      <div class="row">
+                      <!--div class="col-sm-3">
+                      <h4 class="bigger lighter">
+                        <i class="glyphicon glyphicon-align-justify"></i>&nbsp;
+                        
+                      </h4>
+                      </div-->
+                         <div class="col-sm-4">
+                           <a href="#/" class="btn btn-sm btn-info header-elements-margin"><i class="glyphicon  glyphicon-chevron-left"></i>&nbsp;Back to Tasks</a>
+                            <button ng-click="addNewClicked=!addNewClicked;" class="btn btn-sm btn-success header-elements-margin"><i class="glyphicon  glyphicon-folder-open"></i>&nbsp;&nbsp;Add New category</button>
+                     
+                         </div>
+                     
+                    
+                     
+                      <div class="col-sm-4 col-sm-offset-4 ">
+
+                      <input type="text" ng-model="filterCategory" class="form-control search header-elements-margin" placeholder="Filter Categories">
+
+                      </div>
+                      </div>
+                      </div>
+
+                      <div class="widget-body ">
+
+                      <form ng-init="addNewClicked=false; " ng-if="addNewClicked" id="newTaskForm" class="add-task">
+                          <div class="form-actions">
+                            <div class="input-group">
+                            <input type="text" class="form-control" name="comment" ng-model="categoryInput" placeholder="Add New Category" ng-focus="addNewClicked">
+                              <div class="input-group-btn">
+                              <button class="btn btn-default" type="submit" ng-click="addCategory(categoryInput)"><i class="glyphicon glyphicon-plus"></i>&nbsp;Add New Category</button>
+                              </div>
+                            </div>
+                          </div>
+                      </form>
+
+                      <div class="task" ng-repeat="category in categories | filter : filterCategory">
+
+           
+                
+
+
+            
+                  <label class="checkbox" >
+                  <span class="glyphicon glyphicon-folder-close text-info" ></span>
+                  
+                   
+
+                    <span ng-hide="showOrHide"    ng-click="showOrHide=!showOrHide; ">{{category.title}}  <span class="glyphicon glyphicon-pencil text-info" ></span></span>
+
+
+                   <span ng-show="showOrHide">
+                    <input type="text" ng-model="category.title" ng-blur="showOrHide=!showOrHide;updateCategory(category.id, category.title)" >
+                    <button type="button" class="btn btn-success btn-xs" ng-click="showOrHide=!showOrHide;updateCategory(category.id, category.title)">Save Category</button>
+                  </span>
+
+                  
+
+
+             
+                  <a ng-click="deleteCategory(category.id)" class="pull-right"><i class="glyphicon glyphicon-trash"></i></a>
+
+                  
+                   </label>
+
+
+
+
+
+              </div>
+
+
+                      </div>
+                      </div>

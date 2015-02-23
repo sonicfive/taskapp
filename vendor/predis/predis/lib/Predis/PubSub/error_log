@@ -1,0 +1,4 @@
+[16-Sep-2014 17:36:26 America/Denver] PHP Fatal error:  Class 'Predis\PubSub\AbstractPubSubContext' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/PubSub/PubSubContext.php on line 26
+[19-Oct-2014 08:48:09 America/Denver] PHP Fatal error:  Class 'Predis\PubSub\AbstractPubSubContext' not found in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/PubSub/PubSubContext.php on line 26
+[24-Oct-2014 08:38:56 America/Denver] PHP Fatal error:  Class 'Predis\PubSub\AbstractPubSubContext' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/PubSub/PubSubContext.php on line 26
+[05-Nov-2014 18:00:18 America/Denver] PHP Fatal error:  Class 'Predis\PubSub\AbstractPubSubContext' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/PubSub/PubSubContext.php on line 26

@@ -1,0 +1,2 @@
+[14-Sep-2014 17:46:34 America/Denver] PHP Fatal error:  Class 'PHPParser_Lexer' not found in /home/rocketo4/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/Lexer/Emulative.php on line 7
+[23-Oct-2014 10:49:05 America/Denver] PHP Fatal error:  Class 'PHPParser_Lexer' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Lexer/Emulative.php on line 7

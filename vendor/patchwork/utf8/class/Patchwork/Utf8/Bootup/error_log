@@ -1,0 +1,6 @@
+[17-Sep-2014 22:06:54 America/Denver] PHP Fatal error:  Cannot redeclare utf8_encode() in /home/rocketo4/public_html/laravel/vendor/patchwork/utf8/class/Patchwork/Utf8/Bootup/utf8_encode.php on line 13
+[18-Sep-2014 00:23:19 America/Denver] PHP Fatal error:  Cannot redeclare mb_convert_encoding() in /home/rocketo4/public_html/laravel/vendor/patchwork/utf8/class/Patchwork/Utf8/Bootup/mbstring.php on line 20
+[19-Sep-2014 18:56:20 America/Denver] PHP Fatal error:  Cannot redeclare iconv() in /home/rocketo4/public_html/laravel/vendor/patchwork/utf8/class/Patchwork/Utf8/Bootup/iconv.php on line 18
+[25-Oct-2014 16:11:57 America/Denver] PHP Fatal error:  Cannot redeclare mb_convert_encoding() in /home/rocketo4/public_html/task/vendor/patchwork/utf8/class/Patchwork/Utf8/Bootup/mbstring.php on line 20
+[25-Oct-2014 16:16:24 America/Denver] PHP Fatal error:  Cannot redeclare utf8_encode() in /home/rocketo4/public_html/task/vendor/patchwork/utf8/class/Patchwork/Utf8/Bootup/utf8_encode.php on line 13
+[25-Oct-2014 17:02:22 America/Denver] PHP Fatal error:  Cannot redeclare iconv() in /home/rocketo4/public_html/task/vendor/patchwork/utf8/class/Patchwork/Utf8/Bootup/iconv.php on line 18

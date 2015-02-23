@@ -1,0 +1,4 @@
+[14-Sep-2014 17:41:05 America/Denver] PHP Fatal error:  Class 'Patchwork\PHP\Shim\Normalizer' not found in /home/rocketo4/public_html/laravel/vendor/patchwork/utf8/class/Normalizer.php on line 16
+[08-Oct-2014 02:24:06 America/Denver] PHP Fatal error:  Class 'Patchwork\PHP\Shim\Normalizer' not found in /home/rocketo4/public_html/laravel/vendor/patchwork/utf8/class/Normalizer.php on line 16
+[18-Oct-2014 19:59:02 America/Denver] PHP Fatal error:  Class 'Patchwork\PHP\Shim\Normalizer' not found in /home/rocketo4/public_html/vendor/patchwork/utf8/class/Normalizer.php on line 16
+[24-Oct-2014 08:36:38 America/Denver] PHP Fatal error:  Class 'Patchwork\PHP\Shim\Normalizer' not found in /home/rocketo4/public_html/task/vendor/patchwork/utf8/class/Normalizer.php on line 16

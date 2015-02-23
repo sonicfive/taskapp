@@ -1,0 +1,3 @@
+[15-Sep-2014 17:25:53 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Replication/ReplicationStrategyTest.php on line 21
+[19-Oct-2014 08:48:32 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/vendor/predis/predis/tests/Predis/Replication/ReplicationStrategyTest.php on line 21
+[23-Oct-2014 13:00:53 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Replication/ReplicationStrategyTest.php on line 21

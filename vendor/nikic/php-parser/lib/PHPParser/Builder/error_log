@@ -1,0 +1,13 @@
+[16-Sep-2014 13:12:26 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/Builder/Class.php on line 4
+[16-Sep-2014 23:09:48 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/Builder/Function.php on line 4
+[17-Sep-2014 02:21:56 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/Builder/Interface.php on line 4
+[17-Sep-2014 06:08:10 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/Builder/Property.php on line 4
+[17-Sep-2014 06:11:57 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/Builder/Param.php on line 4
+[17-Sep-2014 10:11:14 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/Builder/Method.php on line 4
+[22-Oct-2014 20:33:28 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Builder/Interface.php on line 4
+[22-Oct-2014 20:40:12 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Builder/Class.php on line 4
+[22-Oct-2014 20:46:24 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Builder/Method.php on line 4
+[23-Oct-2014 07:04:29 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Builder/Function.php on line 4
+[23-Oct-2014 10:07:40 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Builder/Function.php on line 4
+[23-Oct-2014 14:49:50 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Builder/Param.php on line 4
+[23-Oct-2014 21:10:24 America/Denver] PHP Fatal error:  Class 'PHPParser_BuilderAbstract' not found in /home/rocketo4/public_html/task/vendor/nikic/php-parser/lib/PHPParser/Builder/Property.php on line 4

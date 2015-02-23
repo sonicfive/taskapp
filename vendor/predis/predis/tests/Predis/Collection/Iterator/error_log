@@ -1,0 +1,15 @@
+[17-Sep-2014 20:17:00 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Collection/Iterator/HashKeyTest.php on line 22
+[17-Sep-2014 23:53:00 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Collection/Iterator/ListKeyTest.php on line 22
+[18-Sep-2014 03:21:28 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Collection/Iterator/SetKeyTest.php on line 22
+[18-Sep-2014 08:13:13 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Collection/Iterator/KeyspaceTest.php on line 22
+[18-Sep-2014 17:16:37 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Collection/Iterator/SortedSetKeyTest.php on line 22
+[24-Oct-2014 12:51:33 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/HashKeyTest.php on line 22
+[24-Oct-2014 12:56:23 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/SetKeyTest.php on line 22
+[24-Oct-2014 13:26:22 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/SortedSetKeyTest.php on line 22
+[24-Oct-2014 13:32:43 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/KeyspaceTest.php on line 22
+[24-Oct-2014 13:34:25 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/ListKeyTest.php on line 22
+[30-Oct-2014 14:52:05 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/HashKeyTest.php on line 22
+[31-Oct-2014 08:33:08 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/SetKeyTest.php on line 22
+[04-Nov-2014 15:19:46 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/SortedSetKeyTest.php on line 22
+[05-Nov-2014 17:19:39 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/KeyspaceTest.php on line 22
+[05-Nov-2014 20:31:53 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Collection/Iterator/ListKeyTest.php on line 22

@@ -1,0 +1,2 @@
+[22-Oct-2014 11:56:45 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/rocketo4/public_html/task/app/database/migrations/2014_10_20_040841_create_users_table.php on line 6
+[23-Jan-2015 13:18:32 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/rocketo4/public_html/task/app/database/migrations/2014_10_20_040841_create_users_table.php on line 6

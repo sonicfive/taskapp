@@ -1,0 +1,7 @@
+[15-Sep-2014 11:51:02 America/Denver] PHP Fatal error:  Class 'Predis\PredisException' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 22
+[17-Sep-2014 00:54:46 America/Denver] PHP Fatal error:  Interface 'Predis\BasicClientInterface' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/lib/Predis/Transaction/MultiExecContext.php on line 33
+[18-Oct-2014 20:15:43 America/Denver] PHP Fatal error:  Class 'Predis\PredisException' not found in /home/rocketo4/public_html/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 22
+[24-Oct-2014 22:01:37 America/Denver] PHP Fatal error:  Interface 'Predis\BasicClientInterface' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Transaction/MultiExecContext.php on line 33
+[24-Oct-2014 22:05:39 America/Denver] PHP Fatal error:  Class 'Predis\PredisException' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 22
+[07-Nov-2014 15:48:49 America/Denver] PHP Fatal error:  Interface 'Predis\BasicClientInterface' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Transaction/MultiExecContext.php on line 33
+[07-Nov-2014 18:20:23 America/Denver] PHP Fatal error:  Class 'Predis\PredisException' not found in /home/rocketo4/public_html/task/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 22

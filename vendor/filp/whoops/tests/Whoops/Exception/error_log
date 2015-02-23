@@ -1,0 +1,8 @@
+[15-Sep-2014 19:57:25 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Exception/FrameTest.php on line 13
+[16-Sep-2014 08:11:25 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Exception/InspectorTest.php on line 13
+[16-Sep-2014 21:30:35 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Exception/FrameCollectionTest.php on line 13
+[17-Sep-2014 06:04:22 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/laravel/vendor/filp/whoops/tests/Whoops/Exception/FormatterTest.php on line 11
+[23-Oct-2014 16:03:12 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Exception/InspectorTest.php on line 13
+[23-Oct-2014 16:04:53 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Exception/FormatterTest.php on line 11
+[24-Oct-2014 09:32:36 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Exception/FrameCollectionTest.php on line 13
+[24-Oct-2014 11:21:23 America/Denver] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/rocketo4/public_html/task/vendor/filp/whoops/tests/Whoops/Exception/FrameTest.php on line 13

@@ -1,0 +1,4 @@
+[15-Sep-2014 07:49:39 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Cluster/PredisClusterHashStrategyTest.php on line 22
+[15-Sep-2014 19:42:15 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/laravel/vendor/predis/predis/tests/Predis/Cluster/RedisClusterHashStrategyTest.php on line 21
+[23-Oct-2014 23:49:45 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Cluster/RedisClusterHashStrategyTest.php on line 21
+[24-Oct-2014 02:23:48 America/Denver] PHP Fatal error:  Class 'PredisTestCase' not found in /home/rocketo4/public_html/task/vendor/predis/predis/tests/Predis/Cluster/PredisClusterHashStrategyTest.php on line 22

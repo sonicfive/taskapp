@@ -217,20 +217,11 @@ $user = User::find(1);
 Auth::login($user);
 });
 
-Route::get('noticias', function(){
-	
-		$data = file_get_contents("http://sacsapiazure.azurewebsites.net/api/vanguardia/contentlist/storynoticia?top=1&daysfrom=1&objects=getparent1");
-	
-		$noticias = json_decode($data, true);
-		//dd($noticias);
 
-		foreach ($noticias as $item) {
-			echo $item["introduccion"];
-		}
-		 
-
-
-		
-		
-
+Route::get('database',function(){
+	try{
+ DB::connection()->getDatabaseName();
+}catch(Exception $e){
+   echo $e->getMessage();
+}
 });

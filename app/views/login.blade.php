@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Administration Issues Log</title>
+    <title>Task App</title>
 
     <!-- Bootstrap -->
     <!-- Latest compiled and minified CSS -->
@@ -27,10 +27,10 @@
 
     <div class="row">
      <div class="col-md-12">
-      <h1>Administration Issues Log</h1>
+      <h1>Simple Task App</h1>
      </div>
     <div class="col-md-12">
-        <form class="form-horizontal" method="post" action="http://rocketonemedia.com/task/public/login">
+        <form class="form-horizontal" method="post" action="">
 
         @if(Session::has('message_fail'))
         <div class="alert alert-danger" role="alert">

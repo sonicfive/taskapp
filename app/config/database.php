@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => '',
-			'username'  => '',
-			'password'  => '',
+			'database'  => 'taskapp',
+			'username'  => '2bb7795d6b52',
+			'password'  => 'da90a32c53037a5e',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
